@@ -1,4 +1,4 @@
-## Hi there 👋 I'm N.Iwamto(OBookBook)!! 
+## Hi there 👋 I'm N.Iwamoto(OBookBook)!! 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=OBookBook)
 
