@@ -7,4 +7,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=OBookBook&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OBookBook&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OBookBook" alt="OBookBook" /></a>
