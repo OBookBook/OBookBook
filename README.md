@@ -1,4 +1,4 @@
-## Hello👋 I'm N.Iwamoto, aspiring Full-Stack Engineer
+## Hello👋 I'm N.Iwamoto, Full-Stack Engineer
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=OBookBook)
 
